@@ -1,7 +1,7 @@
 # TicTocToe-game-using-netbeans
 java programming using netbeans 
   
-  
+run the by naming the given txt as TicTocToe_s.java 
   
  use the code to run sample tictoctoe game 
  
